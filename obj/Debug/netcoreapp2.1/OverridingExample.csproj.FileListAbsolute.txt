@@ -1,0 +1,11 @@
+C:\Vstudiocode\OverridingExample\bin\Debug\netcoreapp2.1\OverridingExample.deps.json
+C:\Vstudiocode\OverridingExample\bin\Debug\netcoreapp2.1\OverridingExample.runtimeconfig.json
+C:\Vstudiocode\OverridingExample\bin\Debug\netcoreapp2.1\OverridingExample.runtimeconfig.dev.json
+C:\Vstudiocode\OverridingExample\bin\Debug\netcoreapp2.1\OverridingExample.dll
+C:\Vstudiocode\OverridingExample\bin\Debug\netcoreapp2.1\OverridingExample.pdb
+C:\Vstudiocode\OverridingExample\obj\Debug\netcoreapp2.1\OverridingExample.csprojAssemblyReference.cache
+C:\Vstudiocode\OverridingExample\obj\Debug\netcoreapp2.1\OverridingExample.csproj.CoreCompileInputs.cache
+C:\Vstudiocode\OverridingExample\obj\Debug\netcoreapp2.1\OverridingExample.AssemblyInfoInputs.cache
+C:\Vstudiocode\OverridingExample\obj\Debug\netcoreapp2.1\OverridingExample.AssemblyInfo.cs
+C:\Vstudiocode\OverridingExample\obj\Debug\netcoreapp2.1\OverridingExample.dll
+C:\Vstudiocode\OverridingExample\obj\Debug\netcoreapp2.1\OverridingExample.pdb
